@@ -22,17 +22,19 @@
     "url": "https://vrmdarkeyescan.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vrmdarkeyescan.com.ico",
     "slug": "darkeye",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 284,
-    "timeWeek": 139,
-    "timeMonth": 137,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "time": 132,
+    "timeDay": 178,
+    "timeWeek": 131,
+    "timeMonth": 135,
+    "timeYear": 132,
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   }
 ]
